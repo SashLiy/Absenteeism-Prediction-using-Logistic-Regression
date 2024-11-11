@@ -1,0 +1,5 @@
+Exercise:
+
+Store the predicted outputs obtained by the .absenteeism_model() in a variable called df_new_obs, standing for “a DataFrame with new observations”.
+
+Note: We won’t provide you with the answer to this question straight away, as you will see it in one of the next videos.
